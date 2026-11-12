@@ -1,0 +1,6 @@
+langchain
+langgraph
+langchain-tavily
+langchain-google-genai
+python-dotenv
+requests
